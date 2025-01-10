@@ -7,4 +7,3 @@ week 4 labs
 
 ![image](https://github.com/user-attachments/assets/d0f2ddb9-db47-407b-8756-ae3f49f2185f)
 
-![image](https://github.com/user-attachments/assets/7f1ae137-2784-4faa-aa94-778f7dbb3f1a)
