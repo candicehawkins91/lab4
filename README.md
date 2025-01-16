@@ -9,7 +9,7 @@ week 4 labs
 
 ![image](https://github.com/user-attachments/assets/aaffb36f-c081-4355-ab3f-8b1f5cea2cd8)
 
-https://www.figma.com/board/CKmGUo3lwsnHwmGRXQqhlj/Welcome-to-FigJam?node-id=7-671&t=wOmfPW9Svt9u9HvE-0
+https://www.figma.com/board/CKmGUo3lwsnHwmGRXQqhlj/Welcome-to-FigJam?node-id=35-166&t=r7AE75ta6oWOPHxC-0
 
 
 
